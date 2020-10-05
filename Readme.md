@@ -70,6 +70,6 @@ Each action have an activation by gesture, have in mind if you want to do the mo
 **Inteligencia Artificial - Curso:2019/A**
 
   - [Harold F Murcia](http://haroldmurcia.com) - *Tutor*
-  - Juan Carlos Tique
+  - [Juan Carlos Tique](https://github.com/JuanCarlos-TiqueRangel)
   - Juan Sebastian Sierra
 ***
