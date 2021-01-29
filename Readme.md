@@ -3,7 +3,7 @@
 MouseHead its a project that control the mouse with the facial gestures, these are Whistling, Eyesbrow ,open mouth, smile, Frowns and normal face. MouseHead implement a predictor algorithm with the tools how RandomForest. 
  * [see YouTube video](https://www.youtube.com/watch?v=UVUe5zhM2Mk)
 
-##Requirements:
+## Requirements:
  - Source codes 
  - Data (Calibration, class report, shape_predictor_68_face_landmarks ,pictures)
 ### Hardware Elements
