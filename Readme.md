@@ -71,5 +71,5 @@ Each action have an activation by gesture, have in mind if you want to do the mo
 
   - [Harold F Murcia](http://haroldmurcia.com) - *Tutor*
   - [Juan Carlos Tique](https://github.com/JuanCarlos-TiqueRangel)
-  - Juan Sebastian Sierra
+  - [Juan Sebastian Sierra](https://github.com/jusebastiansierra)
 ***
